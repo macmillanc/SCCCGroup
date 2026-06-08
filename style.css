@@ -1,6 +1,19 @@
 body {
-    background-color: #aae6e3;
+    background-color: #cffffd;
 }
-p {
-    color: #d7dbda;
+
+
+#reference {
+    text-align: center;
+    background-color: white;
+}
+
+a {
+    color: black;
+    display: block;
+    text-decoration: none;
+}
+
+*::selection {
+    background-color: beige;
 }
